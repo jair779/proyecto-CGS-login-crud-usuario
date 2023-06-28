@@ -1,0 +1,35 @@
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\Proyecto CGS.exe.config
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\Proyecto CGS.exe
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\Proyecto CGS.pdb
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.AssemblyReference.cache
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.SuggestedBindingRedirects.cache
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto_CGS.FrmLogin.resources
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto_CGS.Properties.Resources.resources
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.GenerateResource.cache
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.CoreCompileInputs.cache
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.exe
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.pdb
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.dll
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.xml
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.CopyComplete
+D:\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto_CGS.Vistas.FrmMenuPrincipal.resources
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\Proyecto CGS.exe.config
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\Proyecto CGS.exe
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\Proyecto CGS.pdb
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.dll
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.SqlServer.dll
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.xml
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\bin\Debug\EntityFramework.SqlServer.xml
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.AssemblyReference.cache
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.SuggestedBindingRedirects.cache
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto_CGS.Vistas.FrmGestionarUsuario.resources
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto_CGS.FrmLogin.resources
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto_CGS.Properties.Resources.resources
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto_CGS.Vistas.FrmMenuPrincipal.resources
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.GenerateResource.cache
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.CoreCompileInputs.cache
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.csproj.CopyComplete
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.exe
+E:\trabajos de jair\SIS2420b\CODIGO DEL PROYECTO CGS\Proyecto CGS\obj\Debug\Proyecto CGS.pdb
